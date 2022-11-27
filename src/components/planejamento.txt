@@ -1,0 +1,16 @@
+1 - Objetivos do projeto
+    a) O objetivo desta entrega é construir uma aplicação baseada no que aprenderam em React até este momento, como também aperfeiçoar suas habilidades de estilização.
+    - aplicação é um cardápio de hamburguers com a possibilidade de mandar para o carrinho.
+
+2 - Funcionalidades
+    a) Acessar a API com a lista de hamburgueres
+    b) Função de renderizar os Objetivos
+    c) função showproducts - responsável por filtrar pelo imput de pesquisa.
+    d) função handleClick - Adicionar produto no carrinho através do método find 
+
+3 - Componentes
+
+    - App: Responsável por centralizar os componentes e administrar o compartilhamento de informações por props;
+    - ProductsList: Responsável por renderizar a lista de produtos;
+    - Product: Responsável por apresentar as informações do produto: nome, categoria e preço, além de um button para adicionar ao carrinho;
+    - Cart: Responsável por apresentar os produtos inseridos no carrinho e o valor total da compra.

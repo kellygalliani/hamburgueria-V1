@@ -1,0 +1,17 @@
+
+.inputDiv{
+    background: #FFFFFF;
+    border: 2px solid #E0E0E0;
+    border-radius: 8px;
+    padding: 10px 10px 10px 15px;
+    margin: 0 16px 14px 16px;
+}
+
+.search{
+    border: none;
+    font-size: 0.90rem;
+    padding: 0.5rem;
+    width: 60%;
+}
+
+
